@@ -87,6 +87,11 @@ app_license = "MIT"
 #	}
 # }
 
+doctype_js = {
+    "Material Request" : "custom/material_request/material_request.js"
+ }
+
+
 # Scheduled Tasks
 # ---------------
 
