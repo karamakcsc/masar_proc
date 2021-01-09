@@ -139,7 +139,8 @@ fixtures = [
 		"Material Request-departments",
                 "Material Request-requested_department",
 		"Material Request-column_break_11",
-		"Material Request-concerned_department"
+		"Material Request-concerned_department",
+		"Sales Order-fouad_qasem"
 		
             ]
         ]
